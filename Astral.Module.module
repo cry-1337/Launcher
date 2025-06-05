@@ -1,0 +1,11 @@
+{
+	"Name": "Astral.Module",
+	"Version": "1.0.0",
+	"Assemblies":
+	[
+		{
+			"Path": "/Astral.Module.dll",
+			"Role": "Client"
+		}
+	]
+}
